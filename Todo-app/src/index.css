@@ -1,0 +1,18 @@
+h1{
+    margin: 10px 0 20px 0;
+    font-weight: 700;
+}
+
+input{
+    width: 100%;
+
+}
+.col-4{
+    text-align: left;
+}
+.container{
+    margin-top: 10px;
+}
+button{
+    width: 80px;
+}
